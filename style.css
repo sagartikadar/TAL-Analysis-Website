@@ -168,8 +168,10 @@ body{
     padding: 5px;
     background-color: #ffffff2b;
     text-shadow: 0px 0px 3px black;
+    max-width: 95%;
+    margin-left: 15px !important;
   }
-  
+
   .row:hover{
     transform: scale(1.01);
     transition: 200ms;
