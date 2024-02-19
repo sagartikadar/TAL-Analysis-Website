@@ -178,3 +178,12 @@ body{
     transition-behavior:smooth;
     box-shadow:  0px 0px 7px black;
   }
+
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+  }
+  .footer p {
+    margin-bottom: 0;
+  }
